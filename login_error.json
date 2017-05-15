@@ -1,0 +1,7 @@
+{
+  "status": 1,
+  "descriptions": [{
+    "code": 3,
+    "description": "データベースへの接続に失敗しました。"
+  }]
+}
